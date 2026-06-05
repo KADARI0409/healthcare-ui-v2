@@ -1,11 +1,5 @@
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Link,
-  useLocation,
-} from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import PatientForm from "./components/PatientForm";
 import PatientsList from "./components/PatientsList";
 // @ts-ignore: side-effect import of CSS without type declarations
