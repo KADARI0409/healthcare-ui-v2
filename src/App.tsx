@@ -12,7 +12,7 @@ import PatientsList from "./components/PatientsList";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  const location = useLocation();
+  //const location = useLocation();
 
   return (
     <div className="clinic-background" style={{ minHeight: "100vh" }}>
