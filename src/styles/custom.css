@@ -1,0 +1,7 @@
+.bg-gradient-primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.text-dark-50 {
+  color: rgba(0, 0, 0, 0.5) !important;
+}
